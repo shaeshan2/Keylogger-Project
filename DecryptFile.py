@@ -30,7 +30,7 @@ for encrypted_file in encrypted_files:
         
         print(f"Decrypted: {encrypted_files[count]} → {decrypted_files[count]}")
         count += 1
-        
+
     except FileNotFoundError:
         print(f"File not found: {encrypted_files[count]}")
         count += 1

